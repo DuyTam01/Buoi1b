@@ -4,7 +4,7 @@ import Hook2 from './components/hooks/Hook2';
 function App() {
   return (
     <div >
-      {/* <Hook1/> */}
+      <Hook1/>
     <Hook2/>
     </div>
   );
